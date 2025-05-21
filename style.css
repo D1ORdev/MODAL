@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body{
+    font-family: 'Varela', sans-serif;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0,2)),url("/DUBAI.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
