@@ -8,7 +8,7 @@
 body{
     font-family: 'Varela', sans-serif;
     height: 100vh;
-    background: linear-gradient(rgba(232, 80, 80, 0.2)),url("/metsedes.jpg");
+    background: linear-gradient(rgba(90, 16, 16, 0.2)),url("/metsedes.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -64,7 +64,7 @@ body{
     }
 }
 .btn-close{
-    color: #000;
+    color: #a96705;
     font-size: 20px;
     border: none;
     margin-bottom: 30px;
@@ -78,4 +78,7 @@ body{
     width: 100%;
     background: rgba(0,0,0,0,5);
     backdrop-filter: blur(5px);
+}
+.modalbody h2{
+    color: #a96705;;
 }
